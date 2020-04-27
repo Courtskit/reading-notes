@@ -8,7 +8,7 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 
 ## Table of Contents
 
-1. [Link](./notes/class-01.md)
+1. [HTML Basics](./notes/class-01.md)
 2. [Link](./notes/)
 3. [Link](./notes/)
 4. [Link](./notes/)
