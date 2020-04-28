@@ -9,8 +9,8 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 ## Table of Contents
 
 1. [HTML Basics](./notes/class-01.md)
-2. [Link](./notes/)
-3. [Link](./notes/)
+2. [HTML Text, CSS Introduction, and Basic JavaScript](./notes/class-02.md)
+3. [HTML Lists, CSS Boxes, JS Control Flow](./notes/class-03.md)
 4. [Link](./notes/)
 5. [Link](./notes/)
 6. [Link](./notes/)
