@@ -15,7 +15,7 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 5. [HTML Images; CSS Color & Text](./notes/class-05.md)
 6. [Object Literals and Document Object Model](./notes/class-06.md)
 7. [Tables, Function, Methods, and Objects](./notes/class-07.md)
-8. [Link](./notes/)
+8. [Forms, Lists, Tables and Events](./notes/class-09.md)
 9. [Link](./notes/)
 10. [Link](./notes/)
 11. [Link](./notes/)
