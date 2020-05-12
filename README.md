@@ -19,7 +19,7 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 9. [Layout](./notes/class-08.md)
 10. [Error Handling & Debugging](./notes/class-10.md)
 11. [Images and Practical Information](./notes/class-11.md)
-12. [Link](./notes/)
+12. [Canvas, Text, Shapes](./notes/class-12.md)
 13. [Link](./notes/)
 14. [Link](./notes/)
 15. [Link](./notes/)
