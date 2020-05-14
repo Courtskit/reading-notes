@@ -21,8 +21,8 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 11. [Images and Practical Information](./notes/class-11.md)
 12. [Canvas, Text, Shapes](./notes/class-12.md)
 13. [Local Storage](./notes/class-13.md)
-14. [Link](./notes/)
-15. [Link](./notes/)
+14. [CSS Stuff](./notes/class-14.md)
+15. [Googles Team](./notes/class-15.md)
 
 
 ---
